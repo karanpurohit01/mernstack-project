@@ -31,6 +31,3 @@ app.listen(PORT, () => {
   console.log(`Server started at http://localhost:${PORT}`);
 });
 
-//mongo cloud username: karanpurohit347 pass: uVoEzRvG1iDeRv5G
-
-//mongodb+srv://karanpurohit347:uVoEzRvG1iDeRv5G@cluster0.k9nlp.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
